@@ -5,29 +5,27 @@ url: "http://momobgood.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Type Theme
+  title: Morgan Daniel White
   avatar: avatar.png
   gravatar: # Email MD5 hash
   description: "A website with blog posts and pages" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Hi, my name is Morgan. I'm currently learning HTML, CSS, and JavaScript in order to build beautify products.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "morgandwhite@gmail.com"
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "morgandanielwhite"
   flickr:
-  github: "rohanchandra/type-theme"
+  github: "momobgood"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -37,7 +35,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "morgandwhite"
   wordpress:
   youtube:
 
